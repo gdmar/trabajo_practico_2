@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.main;
+package ar.edu.unju.fi.ejercicio1.main;
 
 import java.util.Scanner;
 
