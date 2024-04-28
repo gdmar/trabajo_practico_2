@@ -26,7 +26,7 @@ public class Jugador {
 	public String toString() {
 		return "Jugador [nombre=" + nombre + ", apellido=" + apellido + ", fechaNacimiento=" + fechaNacimiento
 				+ ", nacionalidad=" + nacionalidad + ", estatura=" + estatura + ", peso=" + peso + ", pocicion="
-				+ pocicion + "]";
+				+ pocicion + ", edad : " + calcularEdad()+ "]";
 	}
 	public Jugador() {
 		super();
