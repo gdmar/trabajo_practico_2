@@ -26,8 +26,8 @@ public class Main {
 	 			 case 2:Deposito.filtrarProducto() ; break;
 	 			 case 3:Deposito.incremetoDePrecio();; break;
 	 			 case 4:Deposito.mostrarCategoria(); break;
-	 			 case 5: ;break;
-	 			 case 6: break;
+	 			 case 5: Deposito.ordenarProductoPorPrecio();;break;
+	 			 case 6:Deposito.mostrarNombre(); break;
 	 			 case 7: System.out.println("FIN DEL PROGRAMA");break;
 	 			 default :System.out.println("opcion incorrecta ");
 	 				
